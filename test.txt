@@ -1,0 +1,21 @@
+Administrator@hanb-PC MINGW64 /d/GitHub_test
+$ q!
+bash: q!: command not found
+
+Administrator@hanb-PC MINGW64 /d/GitHub_test
+$ :wq!
+bash: :wq!: command not found
+
+Administrator@hanb-PC MINGW64 /d/GitHub_test
+$ git clone "https://github.com/wangwei2021/test2021.git"
+Cloning into 'test2021'...
+warning: You appear to have cloned an empty repository.
+
+Administrator@hanb-PC MINGW64 /d/GitHub_test
+$ git clone https://github.com/wangwei2021/test2021.git
+fatal: destination path 'test2021' already exists and is not an empty directory.
+
+Administrator@hanb-PC MINGW64 /d/GitHub_test
+$ cd test2021
+
+hello wangwei 
